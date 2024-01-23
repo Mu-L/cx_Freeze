@@ -48,7 +48,7 @@ else:
         [bdist_appimage.__name__, bdist_deb.__name__, bdist_rpm.__name__]
     )
 
-__version__ = "6.16.0-dev12"
+__version__ = "6.16.0-dev23"
 
 
 def setup(**attrs):  # noqa: D103
